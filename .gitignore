@@ -1,0 +1,10 @@
+.DS_Store
+*.sass-cache*
+*.log
+node_modules/
+assets/components/
+assets/javascript/vendor/
+assets/javascript/custom/demosite.js
+packaged/
+wpcs/
+/config.codekit
